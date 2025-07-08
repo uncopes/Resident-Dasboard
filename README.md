@@ -32,7 +32,7 @@ A modern, responsive resident portal for apartment communities. Built with React
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd docker_project
+cd Resident Dasboard
 ```
 
 2. Install dependencies:
